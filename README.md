@@ -104,3 +104,5 @@ La que se llama www contiene un archivo de configuración, en donde se modifican
 
 
 delete the settings.php folder and do a touch settings.php
+
+dos2unix docker-php-apache/docker-entrypoint.sh
