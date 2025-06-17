@@ -101,3 +101,6 @@ La que se llama www contiene un archivo de configuración, en donde se modifican
 #### Observations
 
 - ALTER TABLE files MODIFY COLUMN md5 VARCHAR(40);
+
+
+delete the settings.php folder and do a touch settings.php
